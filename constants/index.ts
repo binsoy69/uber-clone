@@ -4,8 +4,10 @@ import backArrow from "@/assets/icons/back-arrow.png";
 import chat from "@/assets/icons/chat.png";
 import checkmark from "@/assets/icons/check.png";
 import close from "@/assets/icons/close.png";
+import closedEye from "@/assets/icons/closed-eye.png";
 import dollar from "@/assets/icons/dollar.png";
 import email from "@/assets/icons/email.png";
+import eye from "@/assets/icons/eye.png";
 import eyecross from "@/assets/icons/eyecross.png";
 import google from "@/assets/icons/google.png";
 import home from "@/assets/icons/home.png";
@@ -69,6 +71,8 @@ export const icons = {
   star,
   target,
   to,
+  eye,
+  closedEye,
 };
 
 export const onboarding = [
